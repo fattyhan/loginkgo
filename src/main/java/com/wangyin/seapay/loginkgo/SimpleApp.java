@@ -18,6 +18,5 @@ public class SimpleApp {
 //            }
 //        }
 //        LOG.warn("cdt");
-        System.out.println(2 << 3);
     }
 }
